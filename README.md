@@ -4,7 +4,7 @@ Kelas: C
 
 # SISTEM PERHITUNGAN BIAYA PARKIR
 
-Penjelesan 
+Penjelasan 
 
 1. tarif_parkir
    Menyimpan tarif parkir berdasarkan jenis kendaraan, yaitu mobil Rp5.000/jam dan motor Rp3.000/jam.
